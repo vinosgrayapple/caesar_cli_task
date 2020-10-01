@@ -19,7 +19,7 @@ node caesar_cli --action decode --shift 7 --input decoded.txt --output plain.txt
 
 > input.txt
 > `CLI tool for encode and decode a text!`
-
+>
 > output.txt
 > `JSP avvs mvy lujvkl huk kljvkl h alea!`
 
