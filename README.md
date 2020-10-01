@@ -18,10 +18,10 @@ node caesar_cli --action decode --shift 7 --input decoded.txt --output plain.txt
 ```
 
 > input.txt
-> `This is secret. Message about "_" symbol!`
+> `CLI tool for encode and decode a text!`
 
 > output.txt
-> `Aopz pz zljyla. Tlzzhnl hivba "_" zftivs!`
+> `JSP avvs mvy lujvkl huk kljvkl h alea!`
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
