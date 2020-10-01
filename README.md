@@ -2,7 +2,7 @@
 
 CLI tool usage (short alias and full name):
 
-1.  **-s, --shift**: a shift
-2.  **-i, --input**: an input file
-3.  **-o, --output**: an output file
-4.  **-a, --action**: an action encode/decode
+  **-s, --shift**: a shift
+  **-i, --input**: an input file
+  **-o, --output**: an output file
+  **-a, --action**: an action encode/decode
