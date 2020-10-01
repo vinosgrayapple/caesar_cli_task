@@ -1,5 +1,14 @@
 ## CLI tool for encode and decode a text by [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
 
+**Instalation**
+
+```bash
+$ mkdir cli-tool
+$ cd cli-tool
+$ git clone https://github.com/vinosgrayapple/caesar_cli_task.git .
+$ npm install
+```
+
 **CLI tool usage (short alias and full name):**
 
 - **-s, --shift**: a shift
@@ -22,6 +31,7 @@ node caesar_cli --action decode --shift 7 --input decoded.txt --output plain.txt
 >
 > output.txt
 > `JSP avvs mvy lujvkl huk kljvkl h alea!`
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
