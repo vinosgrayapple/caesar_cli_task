@@ -7,6 +7,7 @@ $ mkdir cli-tool
 $ cd cli-tool
 $ git clone https://github.com/vinosgrayapple/caesar_cli_task.git .
 $ npm install
+cd task1
 ```
 
 **CLI tool usage (short alias and full name):**

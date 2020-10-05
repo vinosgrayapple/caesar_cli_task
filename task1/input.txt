@@ -1,1 +1,1 @@
-abc parabellum
+CLI tool for encode and decode a text!
